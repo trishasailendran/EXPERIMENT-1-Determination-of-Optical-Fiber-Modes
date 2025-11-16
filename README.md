@@ -60,4 +60,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-16 at 19 23 27_07a10d1b](https://github.com/user-attachments/assets/4bea78b4-0d35-489d-9866-96c0fe7d00c1)
+
 ## Result
+The mode characteristics of a optic fiber is found to be 5 modes.
